@@ -1,0 +1,14 @@
+6 6
+v0 green
+v1 red
+v2 green
+v3 green
+v4 red
+v5 blue
+v0 v1
+v0 v2
+v1 v4
+v2 v3
+v4 v3
+v5 v3
+v5 v5
